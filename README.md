@@ -1,2 +1,2 @@
 # frontend-proj
-self motivated 
+## self motivated project to exercise my proficiency in tech culture. 
